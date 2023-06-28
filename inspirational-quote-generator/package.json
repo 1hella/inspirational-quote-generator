@@ -1,5 +1,5 @@
 {
-  "name": "inspo-quote-generator",
+  "name": "inspirational-quote-generator",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,10 +17,6 @@
     "next": "13.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "^6.0.1",
     "typescript": "5.1.6"
-  },
-  "devDependencies": {
-    "babel-plugin-styled-components": "^2.1.4"
   }
 }
